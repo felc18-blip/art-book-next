@@ -1,5 +1,5 @@
-# Art Book Next for JELOS
-A simple theme for the version of EmulationStation used in [JELOS](https://www.jelos.org).  
+# Art Book Next for UnofficialOS
+A simple theme for the version of EmulationStation used in [UnofficialOS](https://www.unofficialos.org).  
 Based on the style of a coffee table book.
 
 *If you are using Batocera, ES-DE or Retropie please see the "Versions for other ES forks" section below.*
