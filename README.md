@@ -27,7 +27,7 @@ Art Book Next allows customizations to artwork, colors and fonts without the nee
 
 ### Start Here 
 - Create the following folder and then move on to the options below:
-- `storage/roms/jelos/theme-customizations/art-book-next/`
+- `storage/roms/unofficialos/theme-customizations/art-book-next/`
 
 ### Background Art
 
