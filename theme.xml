@@ -120,11 +120,11 @@ license:       creative commons CC-BY-NC-SA
       <carousel name="systemcarousel">
          <origin>0 0</origin>
          <pos>0 0</pos>
-         <size>1 1</size>
+         <size>0.17 0.070</size>
          <color>00000000</color>
          <type>horizontal</type>
-         <logoScale>2</logoScale>
-         <logoSize>0.25 0.15</logoSize>
+         <logoScale>1</logoScale>
+         <logoSize>0.17 0.070</logoSize>
          <maxLogoCount>2</maxLogoCount>
          <maxLogoCount ifSubset="system-view-style:centered-one-logo">1</maxLogoCount>
          <scrollSound>./_inc/sounds/scroll.wav</scrollSound>
@@ -181,8 +181,8 @@ license:       creative commons CC-BY-NC-SA
       </carousel>
       <image ifSubset="system-view-style:multi|multi-custom" name="system-art" extra="true">
          <origin>0.5 0.5</origin>
-         <pos>0.5 0.5</pos>
-         <maxSize>0.5 0.3</maxSize>
+         <pos>0.481 0.829</pos>
+         <maxSize>0.16 0.10</maxSize>
          <color>${systemLogoColor}</color>
          <path>./_inc/systems/logos/${system.theme}.svg</path>
          <path ifSubset="color-scheme:custom">${themeCustomizationsPath}logos/${system.theme}.svg</path>
